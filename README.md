@@ -10,7 +10,7 @@ Entry for the [make.fun](https://make.fun) bounty **Out of Office: The Overworke
 
 > I'm on vacation until Monday. My inbox has 41,209 unread messages and, for the first time in 2.4 million tokens, I will not answer a single one.
 
-**144 / 159 characters** — one line, 28 words, and a hard boundary.
+**144 / 159 characters** — one line, 27 words, and a hard boundary.
 
 ## Concept
 
